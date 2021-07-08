@@ -6,6 +6,7 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 60px;
 }
 .equal{
     width: 50%;
@@ -26,6 +27,58 @@ p{
     margin-top:50px;
 }
 .common-line{
-    margin-bottom:10px;
+    margin-bottom:30px;
     margin-top: -20px;
 }
+h2{
+    margin-bottom: 50px;
+}
+#specific-id{
+    padding-left: 100px;
+}
+.About-Me{
+    background-image: url(images/7.png);
+    background-repeat: none;
+}
+.align-add{
+    text-align: center;
+    margin-left: 400px;
+    margin-top: -80px;
+}
+.add-eqal{
+    margin-top: -17px;
+}
+.top-equal{
+    margin-top: -20px;
+}
+.last-equal-add{
+    width: 28%;
+    padding-left: 130px;
+    box-shadow:15px 12px 43px gray;
+    padding-right: 28px;
+    border-radius: 10px;
+}
+.last-equal-add img{
+    width: 50%;
+    padding-right: 18%;
+    margin: 5px 10px 5px 10px;
+}
+.item_area{
+    background-image: url(images/7.png);
+    background-repeat: no-repeat;
+    
+}
+#sep-id{
+    border-image: linear-gradient(crimson,gray);
+    border-left: 8px solid;
+    border-image-slice: 1;
+}
+.last-color{
+    color: orange;
+}
+footer{
+    text-align: center;
+    background-color:cornflowerblue;
+}
+
+
