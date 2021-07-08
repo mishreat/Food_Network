@@ -1,0 +1,31 @@
+.color-add{
+    color: crimson;
+}
+h1{
+    margin-bottom:-15px;
+}
+section{
+    display: flex;
+}
+.equal{
+    width: 50%;
+    padding-left: 20px;
+}
+.equal img{
+    width: 38%;
+    padding-right: 40%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(blue,cyan);
+    border-radius: 30px;
+    padding: 7px 25px ;
+    font-weight: 600; 
+} 
+p{
+    margin-top:50px;
+}
+.common-line{
+    margin-bottom:10px;
+    margin-top: -20px;
+}
